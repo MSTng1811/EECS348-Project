@@ -1,5 +1,6 @@
 **BOOLEAN LOGIC SIMULATOR**
 **~Cryptic Coders**
+
 This is a respository to store all the contents of our group project "Boolean Logic Simulator".
 The purpose of this project is to create a Boolean Logic Simulator by exploring concepts of logic gates,
 truth tables and expression evaluation. The program will simulate how Boolean operators are interacted with
